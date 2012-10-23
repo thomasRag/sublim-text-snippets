@@ -1,0 +1,19 @@
+    <snippet>
+       <content><![CDATA[<!DOCTYPE html>
+    <html lang="en-GB">
+    <head>
+        <meta charset="utf-8">
+        <meta name="keywords" content="key, words">
+        <meta name="description" content="description">
+        <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
+       <title>$1</title>
+        <style type="text/css">
+        </style>
+    </head>
+    <body>
+    $0
+    </body>
+    </html>]]></content>
+       <tabTrigger>html5</tabTrigger>
+       <scope>text.html, source.php</scope>
+    </snippet>
